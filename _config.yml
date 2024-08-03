@@ -1,0 +1,9 @@
+# Configuración de GitHub Pages
+theme: jekyll-theme-cayman
+title: Perfil Híbrido| Antonio Enríquez
+description: Sitio web de Antonio Enríquez, desarrollador de software. El perfil híbrido que he formado es con base en mis estudios de Licenciatura en Ciencias de la Comunicación (UNITEC), Ingeniería en Desarrollo de Software (UNADM) y Especialidad en Seguridad Informática y Tecnologías de la Información (IPN).
+baseurl: "#" # Si tu repositorio está en la raíz del dominio
+url: "https://zucar0.github.io/" # URL de tu sitio web
+
+# Configuración de Jekyll
+markdown: kramdown
