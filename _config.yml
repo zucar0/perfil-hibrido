@@ -6,4 +6,12 @@ baseurl: "#" # Si tu repositorio está en la raíz del dominio
 url: "https://zucar0.github.io/" # URL de tu sitio web
 
 # Configuración de Jekyll
-markdown: kramdown
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
